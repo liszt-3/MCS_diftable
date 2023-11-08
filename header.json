@@ -1,5 +1,29 @@
 {
-"name" : "ここに難易度表の名前",
-"symbol" : "ここにシンボル",
-"data_url" : "ここにJSONのURL"
+  "name": "MUDCAT_style 難易度表",
+  "symbol": "=M=",
+  "level_order": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "10+",
+    "10++",
+    "from"
+  ],
+  "folder_order": [ ],
+  "folder_sort_key": "song.title",
+  "folder_sort_ascending": true,
+  "entry_type": "",
+  "data_url": "https://script.google.com/macros/s/AKfycbz1HfB-x_R7UKBP_aBJC4PLeGHTkksyaZ-uvB-plmpwfOqCq2OvFnDcrkbVFNcbqkDeHw/exec",
+  "compat_prefix": "=M=",
+  "last_update": "2022\/02\/13",
+  "editor_name": "BeMusicSeeker",
+  "editor_version": "",
+  "output_date": "2023\/11\/09"
 }
